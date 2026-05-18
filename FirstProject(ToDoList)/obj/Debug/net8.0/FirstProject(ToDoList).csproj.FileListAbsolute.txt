@@ -1,0 +1,14 @@
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\bin\Debug\net8.0\FirstProject(ToDoList).exe
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\bin\Debug\net8.0\FirstProject(ToDoList).deps.json
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\bin\Debug\net8.0\FirstProject(ToDoList).runtimeconfig.json
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\bin\Debug\net8.0\FirstProject(ToDoList).dll
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\bin\Debug\net8.0\FirstProject(ToDoList).pdb
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\obj\Debug\net8.0\FirstProject(ToDoList).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\obj\Debug\net8.0\FirstProject(ToDoList).AssemblyInfoInputs.cache
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\obj\Debug\net8.0\FirstProject(ToDoList).AssemblyInfo.cs
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\obj\Debug\net8.0\FirstProject(ToDoList).csproj.CoreCompileInputs.cache
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\obj\Debug\net8.0\FirstProject(ToDoList).dll
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\obj\Debug\net8.0\refint\FirstProject(ToDoList).dll
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\obj\Debug\net8.0\FirstProject(ToDoList).pdb
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\obj\Debug\net8.0\FirstProject(ToDoList).genruntimeconfig.cache
+C:\Users\Dexef_Dev_omar\Desktop\ConsoleApp\FirstProject(ToDoList)\obj\Debug\net8.0\ref\FirstProject(ToDoList).dll
